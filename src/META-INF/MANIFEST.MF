@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+MIDlet-1: KnightOnline,/icon.png,com.silverknight.TemMidlet
+MIDlet-Vendor: Midlet Suite Vendor
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: KnightOnline Midlet Suite
+MIDlet-Version: 1.8.2
+MicroEdition-Profile: MIDP-2.0
+
