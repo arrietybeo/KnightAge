@@ -1,6 +1,6 @@
-# Hướng Dẫn Mở Dự Án
+# Hướng Dẫn OPEN PROJECT
 
-## Yêu Cầu Cài Đặt
+## Yêu Cầu Cài Đặt!
 
 1. **NetBeans IDE 8.2**  
    Link tải: [NetBeans 8.2](https://drive.google.com/file/d/1rIqLe3uM0-aL-NUjApbf_rM7FWqE-7Ny/view?usp=sharing)
