@@ -1,4 +1,4 @@
-# Hướng Dẫn OPEN PROJECT
+# Hướng Dẫn OPEN PROJECT KNIGHT AGE VERSION 3.0.1
 
 ## Yêu Cầu Cài Đặt!
 
